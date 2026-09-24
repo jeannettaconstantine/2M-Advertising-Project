@@ -42,11 +42,11 @@ export const ServicesPage: React.FC<ServicesPageProps> = ({
   // Material quality guarantees mentioning only technical GRADES (no brands)
   const materialGuarantees = [
     {
-      title: isId ? 'Modul LED Grade IP67 / IP68 Outdoor' : 'Grade IP67 / IP68 Outdoor LED Modules',
+      title: isId ? 'Lampu Grade A Kualitas Terbaik' : 'Grade A Lighting - Best Quality',
       desc: isId
-        ? 'Dioda LED high-lumen weatherproof tahan hujan lebat, efisiensi konsumsi daya, pencahayaan merata bebas hotspot, dan bergaransi resmi.'
-        : 'High-lumen weatherproof outdoor LED diodes with optimal power efficiency, uniform diffusion without dark hotspots, and warranty.',
-      badge: isId ? 'Grade IP68 Outdoor' : 'Grade IP68 Outdoor',
+        ? 'Menggunakan Lampu LED modul/TL dengan kualitas pencahayaan terbaik & weatherproof yang tahan hujan & panas, efisiensi konsumsi daya yang sangat cocok untuk meningkatkan daya tarik reklame Anda.'
+        : 'Using premium quality LED module/fluorescent lights with optimal illumination and weatherproof durability against rain and heat, with energy efficiency perfectly suited to enhance the appeal of your signage.',
+      badge: isId ? 'Lampu Grade A' : 'Grade A Lighting',
       colorClass: 'border-blue-300/80 bg-gradient-to-br from-blue-50/80 via-white to-sky-50/60 hover:border-blue-500 shadow-blue-500/5',
       badgeClass: 'bg-blue-600 text-white border-blue-600',
       iconClass: 'text-blue-600 bg-blue-100/80 border-blue-200',
@@ -153,7 +153,7 @@ export const ServicesPage: React.FC<ServicesPageProps> = ({
               <span>{isId ? 'Kalkulator Pajak & Izin' : 'Tax & Permit Guide'}</span>
             </button>
             <a
-              href="https://wa.me/62811721596?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20layanan%20reklame"
+              href="https://wa.me/6287878952077?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20layanan%20reklame"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2 rounded-xl bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-bold inline-flex items-center gap-1.5 shadow-md shadow-emerald-900/30 transition-all hover:scale-105"
@@ -363,7 +363,7 @@ export const ServicesPage: React.FC<ServicesPageProps> = ({
                 {isId ? 'Cek Izin & Pajak Resmi' : 'Check Tax & Legal'}
               </button>
               <a
-                href="https://wa.me/62811721596?text=Halo%202M%20Advertising%2C%20saya%20ingin%20jadwalkan%20survei%20lokasi%20gratis%20untuk%20reklame%20saya"
+                href="https://wa.me/6287878952077?text=Halo%202M%20Advertising%2C%20saya%20ingin%20jadwalkan%20survei%20lokasi%20gratis%20untuk%20reklame%20saya"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 rounded-xl bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-slate-950 text-xs font-black shadow-lg shadow-amber-500/25 transition-all flex items-center gap-2 hover:scale-105 cursor-pointer"

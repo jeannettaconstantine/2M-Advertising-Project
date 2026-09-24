@@ -290,7 +290,7 @@ export const PortfolioGallery: React.FC<PortfolioGalleryProps> = ({
                 </button>
 
                 <a
-                  href={`https://wa.me/62811721596?text=Halo%202M%20Advertising%2C%20saya%20tertarik%20dengan%20proyek%20seperti%20*${encodeURIComponent(activeModalProject.title)}*%20untuk%20klien%20${encodeURIComponent(activeModalProject.client)}.%20Mohon%20info%20konsultasi%20dan%20penawaran`}
+                  href={`https://wa.me/6287878952077?text=Halo%202M%20Advertising%2C%20saya%20tertarik%20dengan%20proyek%20seperti%20*${encodeURIComponent(activeModalProject.title)}*%20untuk%20klien%20${encodeURIComponent(activeModalProject.client)}.%20Mohon%20info%20konsultasi%20dan%20penawaran`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-5 py-2.5 rounded-xl text-xs font-bold bg-emerald-600 hover:bg-emerald-500 text-white flex items-center gap-2 shadow-lg"

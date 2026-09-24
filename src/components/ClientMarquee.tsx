@@ -205,7 +205,7 @@ export const ClientMarquee: React.FC<ClientMarqueeProps> = ({ lang, onSelectClie
           </div>
 
           <a
-            href="https://wa.me/62811721596?text=Halo%202M%20Advertising%2C%20perusahaan%20kami%20ingin%20mengajukan%20pengadaan%20reklame%20multi-cabang%20korporasi"
+            href="https://wa.me/6287878952077?text=Halo%202M%20Advertising%2C%20perusahaan%20kami%20ingin%20mengajukan%20pengadaan%20reklame%20multi-cabang%20korporasi"
             target="_blank"
             rel="noopener noreferrer"
             className="shrink-0 px-5 py-2.5 rounded-xl bg-amber-500 hover:bg-amber-400 text-slate-950 text-xs font-bold shadow-lg transition-colors"

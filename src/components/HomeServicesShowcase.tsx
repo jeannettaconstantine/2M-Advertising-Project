@@ -423,7 +423,7 @@ export const HomeServicesShowcase: React.FC<HomeServicesShowcaseProps> = ({
           </div>
 
           <a
-            href="https://wa.me/62811721596?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20layanan%20reklame%20dan%20estimasi%20biaya"
+            href="https://wa.me/6287878952077?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20layanan%20reklame%20dan%20estimasi%20biaya"
             target="_blank"
             rel="noopener noreferrer"
             className="shrink-0 px-5 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs sm:text-sm shadow-md shadow-emerald-600/20 flex items-center gap-2 transition-transform hover:scale-[1.02] cursor-pointer"

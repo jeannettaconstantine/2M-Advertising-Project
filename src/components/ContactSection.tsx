@@ -35,7 +35,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ lang }) => {
       `• Lokasi: ${formData.location}%0A` +
       `• Kebutuhan: ${formData.notes || 'Mohon jadwal survei lokasi dan penawaran'}`;
     
-    window.open(`https://wa.me/62811721596?text=${text}`, '_blank');
+    window.open(`https://wa.me/6287878952077?text=${text}`, '_blank');
     setSubmitted(true);
   };
 
@@ -76,7 +76,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ lang }) => {
         {/* Header */}
         <div className="text-center max-w-3xl mx-auto space-y-4">
           <a
-            href="https://wa.me/62811721596?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20dan%20survei%20lokasi%20gratis%20untuk%20reklame%20brand%20saya"
+            href="https://wa.me/6287878952077?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20dan%20survei%20lokasi%20gratis%20untuk%20reklame%20brand%20saya"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white hover:bg-slate-50 border border-slate-300 text-xs font-semibold text-blue-600 shadow-sm transition-all hover:scale-105 cursor-pointer"
@@ -111,7 +111,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ lang }) => {
 
           <div className="pt-2 flex flex-wrap items-center justify-center gap-4">
             <a
-              href="https://wa.me/62811721596?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20dan%20survei%20lokasi%20gratis%20untuk%20reklame%20brand%20saya"
+              href="https://wa.me/6287878952077?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20dan%20survei%20lokasi%20gratis%20untuk%20reklame%20brand%20saya"
               target="_blank"
               rel="noopener noreferrer"
               className="px-7 py-3.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs sm:text-sm shadow-lg shadow-emerald-600/25 flex items-center gap-2.5 transition-all hover:scale-105 cursor-pointer"
@@ -156,8 +156,8 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ lang }) => {
                     <span className="font-bold text-slate-900 block">
                       {isId ? 'Hotline Konsultasi & Whatsapp:' : 'Hotline & WhatsApp:'}
                     </span>
-                    <a href="https://wa.me/62811721596" className="text-emerald-600 font-bold hover:underline block">
-                      +62811-721-596
+                    <a href="https://wa.me/6287878952077" className="text-emerald-600 font-bold hover:underline block">
+                      +62878-7895-2077
                     </a>
                     <span className="text-slate-500 text-[11px] block mt-0.5">
                       Telp Kantor: (0721) 771-389
@@ -197,7 +197,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ lang }) => {
               {/* Direct Quick WhatsApp Banner */}
               <div className="pt-2">
                 <a
-                  href="https://wa.me/62811721596?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20langsung%20pembuatan%20reklame"
+                  href="https://wa.me/6287878952077?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20langsung%20pembuatan%20reklame"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full py-3.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs flex items-center justify-center gap-2 shadow-md shadow-emerald-600/20 transition-all hover:scale-[1.01]"

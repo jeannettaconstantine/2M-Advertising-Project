@@ -380,7 +380,7 @@ export const ServicesSection: React.FC<ServicesSectionProps> = ({
 
                     <div className="flex items-center gap-2">
                       <a
-                        href={`https://wa.me/62811721596?text=Halo%202M%20Advertising%2C%20saya%20tertarik%20dengan%20layanan%20${encodeURIComponent(activeService.title.id)}`}
+                        href={`https://wa.me/6287878952077?text=Halo%202M%20Advertising%2C%20saya%20tertarik%20dengan%20layanan%20${encodeURIComponent(activeService.title.id)}`}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="px-3.5 py-2 rounded-xl text-xs font-bold bg-emerald-50 hover:bg-emerald-100 text-emerald-700 border border-emerald-300 flex items-center gap-1.5 transition-colors"

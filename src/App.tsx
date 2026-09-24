@@ -255,7 +255,7 @@ export default function App() {
         className="fixed bottom-6 right-6 z-40"
       >
         <a
-          href="https://wa.me/62811721596?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20pembuatan%20reklame%20dan%20pajak"
+          href="https://wa.me/6287878952077?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20pembuatan%20reklame%20dan%20pajak"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 px-4 py-3 rounded-full bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs shadow-2xl shadow-emerald-950/60 transition-transform hover:scale-105"

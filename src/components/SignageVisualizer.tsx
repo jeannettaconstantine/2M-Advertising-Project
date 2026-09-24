@@ -321,7 +321,7 @@ export const SignageVisualizer: React.FC<SignageVisualizerProps> = ({
 
 Mohon bantuan untuk jadwal survei lapangan dan pembuatan layout teknis gratis.`;
 
-    return `https://wa.me/62811721596?text=${encodeURIComponent(text)}`;
+    return `https://wa.me/6287878952077?text=${encodeURIComponent(text)}`;
   };
 
   return (

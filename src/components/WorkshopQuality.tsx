@@ -154,7 +154,7 @@ export const WorkshopQuality: React.FC<WorkshopQualityProps> = ({ lang }) => {
           </div>
 
           <a
-            href="https://wa.me/62811721596?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20layanan%20pembuatan%20dan%20pemasangan%20reklame"
+            href="https://wa.me/6287878952077?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20layanan%20pembuatan%20dan%20pemasangan%20reklame"
             target="_blank"
             rel="noopener noreferrer"
             className="shrink-0 px-5 py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs sm:text-sm shadow-md shadow-emerald-600/20 transition-all flex items-center gap-2"

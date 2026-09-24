@@ -734,7 +734,7 @@ export const RukoStorefrontCanvas: React.FC<RukoStorefrontCanvasProps> = ({
               <span>~{estimatedWeightKg} kg</span>
             </div>
             <a
-              href={`https://wa.me/62811721596?text=Halo%202M%20Advertising%2C%20saya%20sudah%20simulasi%20reklame%20ruko%20lebar%20${rukoConfig.widthMeters}m%20dengan%20ukuran%20neon%20box%20${signWidthMeters}m%20x%20${signHeightMeters}m%20(Brand%3A%20${encodeURIComponent(brandName)}).%20Mohon%20info%20estimasi%20biaya%20dan%20survei.`}
+              href={`https://wa.me/6287878952077?text=Halo%202M%20Advertising%2C%20saya%20sudah%20simulasi%20reklame%20ruko%20lebar%20${rukoConfig.widthMeters}m%20dengan%20ukuran%20neon%20box%20${signWidthMeters}m%20x%20${signHeightMeters}m%20(Brand%3A%20${encodeURIComponent(brandName)}).%20Mohon%20info%20estimasi%20biaya%20dan%20survei.`}
               target="_blank"
               rel="noopener noreferrer"
               className="px-3.5 py-1.5 rounded-lg bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs flex items-center gap-1.5 shadow-md transition-all cursor-pointer"

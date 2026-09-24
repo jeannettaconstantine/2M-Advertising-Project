@@ -62,7 +62,7 @@ export const TaxPage: React.FC<TaxPageProps> = ({ lang, onBackToHome }) => {
               <span>{isId ? 'Risiko & Izin SIPR' : 'Risks & Permits'}</span>
             </button>
             <a
-              href="https://wa.me/62811721596?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20bantuan%20pengurusan%20pajak%20reklame%20dan%20izin%20SIPR"
+              href="https://wa.me/6287878952077?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20bantuan%20pengurusan%20pajak%20reklame%20dan%20izin%20SIPR"
               target="_blank"
               rel="noopener noreferrer"
               className="px-3.5 py-1.5 rounded-lg bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs flex items-center gap-1.5 shadow-sm transition-all"
@@ -185,7 +185,7 @@ export const TaxPage: React.FC<TaxPageProps> = ({ lang, onBackToHome }) => {
           </p>
           <div className="pt-2">
             <a
-              href="https://wa.me/62811721596?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20bantuan%20legalitas%20dan%20pajak%20reklame"
+              href="https://wa.me/6287878952077?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20bantuan%20legalitas%20dan%20pajak%20reklame"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs sm:text-sm shadow-xl shadow-emerald-950/40 transition-transform hover:scale-105 cursor-pointer"

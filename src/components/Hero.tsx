@@ -182,7 +182,7 @@ export const Hero: React.FC<HeroProps> = ({
           <motion.a
             whileHover={{ scale: 1.03 }}
             whileTap={{ scale: 0.98 }}
-            href="https://wa.me/62811721596?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20pembuatan%20reklame%20dan%20survei%20lokasi"
+            href="https://wa.me/6287878952077?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20pembuatan%20reklame%20dan%20survei%20lokasi"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto px-5 py-4 rounded-xl font-semibold text-sm bg-slate-900/70 hover:bg-slate-800 text-slate-300 hover:text-white border border-slate-800 transition-all flex items-center justify-center gap-2"

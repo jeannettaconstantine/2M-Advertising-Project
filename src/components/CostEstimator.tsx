@@ -415,7 +415,7 @@ export const CostEstimator: React.FC<CostEstimatorProps> = ({
       }
     }
 
-    return `https://wa.me/62811721596?text=${encodeURIComponent(msg)}`;
+    return `https://wa.me/6287878952077?text=${encodeURIComponent(msg)}`;
   }, [
     isId,
     currentCategory,

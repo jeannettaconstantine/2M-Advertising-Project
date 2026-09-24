@@ -180,8 +180,8 @@ export const Footer: React.FC<FooterProps> = ({ lang, onNavigate }) => {
               </p>
               <p className="flex items-center gap-1.5">
                 <Phone className="w-3.5 h-3.5 text-emerald-400 shrink-0" />
-                <a href="https://wa.me/62811721596" className="text-emerald-400 font-bold hover:underline">
-                  +62811-721-596 (WhatsApp)
+                <a href="https://wa.me/6287878952077" className="text-emerald-400 font-bold hover:underline">
+                  +62878-7895-2077 (WhatsApp)
                 </a>
               </p>
               <p className="text-[11px] text-slate-500">

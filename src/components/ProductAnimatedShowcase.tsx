@@ -626,7 +626,7 @@ export const ProductAnimatedShowcase: React.FC<ProductAnimatedShowcaseProps> = (
                 {/* CTA Action Buttons */}
                 <div className="pt-2 flex flex-wrap items-center gap-3">
                   <a
-                    href={`https://wa.me/62811721596?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20layanan%20${encodeURIComponent(activeProduct.title)}`}
+                    href={`https://wa.me/6287878952077?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20layanan%20${encodeURIComponent(activeProduct.title)}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="px-5 py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-bold shadow-lg shadow-emerald-900/30 flex items-center gap-2 transition-all hover:scale-105 cursor-pointer"

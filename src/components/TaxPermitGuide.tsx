@@ -173,8 +173,8 @@ export const TaxPermitGuide: React.FC<TaxPermitGuideProps> = ({ lang }) => {
   };
 
   const bannerWaUrl = isId
-    ? 'https://wa.me/62811721596?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20bantuan%20pengurusan%20pajak%20dan%20legalitas%20reklame'
-    : 'https://wa.me/62811721596?text=Hello%202M%20Advertising%2C%20I%20would%20like%20to%20consult%20on%20advertising%20tax%20and%20signage%20permit%20compliance';
+    ? 'https://wa.me/6287878952077?text=Halo%202M%20Advertising%2C%20saya%20ingin%20konsultasi%20bantuan%20pengurusan%20pajak%20dan%20legalitas%20reklame'
+    : 'https://wa.me/6287878952077?text=Hello%202M%20Advertising%2C%20I%20would%20like%20to%20consult%20on%20advertising%20tax%20and%20signage%20permit%20compliance';
 
   return (
     <section 
